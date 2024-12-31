@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 aoshiguchen/neutrino-proxy-server:latest
 pangliang/rocketmq-console-ng:latest
+cucker/get_command_4_run_container:latest
